@@ -1,2 +1,8 @@
+---
+title: "City Guide"
+author: "Your Name"
+output: html
+theme: cosmo
+---
 # Kino
 3001 Kino, Sternschanze
