@@ -1,2 +1,8 @@
 *.jpeg
 .DS_Store
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+/_site/
+.quarto/
